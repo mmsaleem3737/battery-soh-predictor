@@ -4,7 +4,7 @@ This repository contains a complete, end-to-end system for predicting the State 
 
 The application allows non-technical users to get instant SoH predictions by simply uploading a raw data log from a battery cycler, making advanced data science accessible to a wider audience.
 
-![Streamlit App Screenshot](https_placeholder.png) 
+
 
 
 ---
